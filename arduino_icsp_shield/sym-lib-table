@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "icsp_shield")(type "KiCad")(uri "${KIPRJMOD}/icsp_shield.kicad_sym")(options "")(descr ""))
+)
